@@ -1,0 +1,268 @@
+[
+    {
+        "id": 0,
+        "name": "Imran Khan.pti",
+        "namee": "Origial account",
+        "pic": "/Img/ImranKhan4.jpg",
+        "profession": "Politician",
+        "des": "Imran Ahmed Khan Niazi HI PP is a Pakistani politician and former cricketer who served as the 22nd Prime Minister of Pakistan from August 2018 to until April 2022. He is the founder and leader of Pakistan Tehreek-e-Insaf. Today we celebrate the rich culture & traditions of Sindh going back to the great Indus Valley Civilization. It’s the land of the Sufis & freedom, but sadly, suffering under the tyranny of Zardari mafia.",
+        "posts": [
+            {
+                "picc": "/Img/ImranKhan1.jpg"
+            },
+            {
+                "picc": "/Img/ImranKhan2.jpg"
+             },
+            {
+                "picc": "/Img/ImranKhan3.jpg"
+              },
+            {
+                "picc": "/Img/ImranKhan4.jpg"  
+            },
+            {
+                "picc": "/Img/ImranKhan5.jpg"
+              },
+            {
+                "picc": "/Img/ImranKhan6.jpg"
+                },
+            {
+                "picc": "/Img/ImranKhan7.webp" 
+               },
+            {
+                "picc": "/Img/ImranKhan8.jpg"
+                }
+        ],
+        "message": [
+            {
+                "msg": "Hi imran khan"
+            },
+            {
+                "msg": "I'm Imran Khan"
+            },
+            {
+                "msg": "Good Imran Khan"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Sufian Zulfiqar",
+        "namee": "Origial account",
+        "pic": "/Img/SufianZulfiqar.png",
+        "profession": "Software Engineer",
+        "des": "Front end developer with HTML5, CSS3, Bootstrap, SASS, Javascript, React Js.",
+        "posts": [
+            {
+                "picc": "/Img/SufianZulfiqar1.jpg"
+             },
+            {
+                "picc": "/Img/SufianZulfiqar2.jpg"
+              },
+            {
+                "picc": "/Img/SufianZulfiqar3.jpg"
+              },
+            {
+                "picc": "/Img/SufianZulfiqar4.jpg"
+              },
+            {
+                "picc": "/Img/SufianZulfiqar5.jpg"
+              },
+            {
+                "picc": "/Img/SufianZulfiqar6.jpg"
+             }
+        ],
+        "message": [
+            {
+                "msg": "Hello sufian"
+            },
+            {
+                "msg": "I'm Sufian Zulfqiar"
+            },
+            {
+                "msg": "Good Sufian Zulfqiar"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nawaz Sharif",
+        "namee": "Origial account",
+        "pic": "/Img/NawazSharif.jpg",
+         "profession": "Politician",
+        "des": "Mian Muhammad Nawaz Sharif is a Pakistani businessman and politician who has served as the Prime Minister of Pakistan for three non-consecutive terms. He is the longest-serving prime minister of Pakistan, having served a total of more than 9 years across three tenures. Each term has ended in his ousting.",
+        "posts": [
+            {
+                "picc": "/Img/NawazShahrif1.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif2.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif3.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif4.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif5.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif6.jpg"
+            },
+            {
+                "picc": "/Img/NawazShahrif7.webp"
+            },
+            {
+                "picc": "/Img/NawazShahrif8.jpg"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey"
+            },
+            {
+                "msg": "I'm Nawaz Sharif"
+            },
+            {
+                "msg": "Good Nawaz Sharif"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Shahbaz Sharif",
+        "namee": "Origial account",
+        "pic": "/Img/ShahbazSharif.jfif",
+         "profession": "Politician",
+        "des": "Mian Muhammad Shehbaz Sharif is a Pakistani politician and businessman who is currently serving as the 23rd Prime Minister of Pakistan, in office since 11 April 2022. He is the current president of the Pakistan Muslim League.",
+        "posts": [
+            {
+                "picc": "/Img/ShahbazSharif1.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazSharif2.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazShari3.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazSharif4.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazShari5.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazShari6.jpg.crdownload"
+            },
+            {
+                "picc": "/Img/ShahbazShari7.jpg"
+            },
+            {
+                "picc": "/Img/ShahbazSharif8.webp"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey"
+            },
+            {
+                "msg": "I'm Shahbaz Sharif"
+            },
+            {
+                "msg": "Good Shahbaz Sharif"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Atif Aslam",
+        "namee": "Origial account",
+        "pic": "/Img/AtifAslam.jpg",
+         "profession": "Singer",
+        "des": "Atif Aslam was born on 12 March 1983, into a Punjabi Muslim family in Wazirabad, Pakistan. He went to Kimberley Hall School in Lahore until 1991, when he moved to Rawalpindi, and continued his studies at St. Paul's Cambridge School in Satellite Town.",
+        "posts": [
+            {
+                "picc": "/Img/AtifAslam11.jpg"
+            },
+            {
+                "picc": "/Img/AtifAslam1.jpg"
+            },
+            {
+                "picc": "/Img/AtifAslam3.jpg"
+            },
+            {
+                "picc": "/Img/AtifAslam4.webp"
+            },
+            {
+                "picc": "/Img/AtifAslam5.jpg"
+            },
+            {
+                "picc": "/Img/AtifAslam2.jpg"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey..men"
+            },
+            {
+                "msg": "I'm Atif Aslam"
+            },
+            {
+                "msg": "Good Atif Aslam"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Elon Musk",
+        "namee": "Origial account",
+        "pic": "/Img/ElonMusk.webp",
+         "profession": "Singer",
+        "des": "Elon Reeve Musk FRS is a business magnate and investor. He is the founder, CEO and chief engineer of SpaceX; angel investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink and OpenAI; president of the Musk Foundation; and owner and CEO of Twitter.",
+        "posts": [
+            {
+                "picc": "/Img/ElonMask5.jpg"
+            },
+
+            {
+                "picc": "/Img/ElonMask2.jpg"
+            },
+
+            {
+                "picc": "/Img/ElonMask3.jpg"
+            },
+
+            {
+                "picc": "/Img/ElonMask4.jpg"
+            },
+
+            {
+                "picc": "/Img/ElonMask1.jpg"
+            },
+    
+            {
+                "picc": "/Img/ElonMask6.jpg"
+            },
+            {
+                "picc": "/Img/ElonMask7.webp"
+            },
+            {
+                "picc": "/Img/ElonMask8.jpg"
+            },
+            {
+                "picc": "/Img/ElonMask9.webp"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey..men"
+            },
+            {
+                "msg": "I'm Elon Mask"
+            },
+            {
+                "msg": "Good Elon Mask"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+.inputFieldParent {
+    background-color: rgba(128, 128, 128, 0.247);
+    border-radius: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.10);
+}
+
+.inputField input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+}
+
+.inputField input:focus {
+    outline: 0;
+}
+
+.inputField input:placeholder-shown {
+    font-weight: 600;
+}
+
+.inputFieldParent {
+    transition: 0.7s all;
+}
+
+.inputFieldParent:hover {
+    transform: scale(1.03);
+}
+
+.messageImg img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50px;
+}
+
+.messageRow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.messageHeaderName h5{
+    padding-right: 11%;
+    /* background-color: red; */
+}
+
+.messageName:hover{
+    text-decoration: none;
+}
+
+@media (min-width:470px) and (max-width:1003px) {
+    .messageImg img{
+        width: 70px;
+        height: 70px;
+        border-radius: 50px;
+    }
+}
+
+@media (min-width:0px) and (max-width:470px) {
+    .messageImg img{
+        width: 65px;
+        height: 65px;
+        border-radius: 50px;
+    }
+}

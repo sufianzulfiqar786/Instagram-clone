@@ -1,0 +1,254 @@
+[
+    {
+        "post_id": 0,
+        "comments": [
+
+            {
+                "user_id": 1,
+                "msg": "I'm Sufian Zulfiqar comment (post_id:0 , user_id: 1,)",
+                "pic": "/Img/SufianZulfiqar.png",
+                "user_name":"Sufian Zulfiqar"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:0 , user_id: 2,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharid comment (post_id:0 , user_id: 3,)",
+                "pic": "/Img/ShahbazSharif.jfif",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam comment (post_id:0 , user_id: 4,)",
+                "pic": "/Img/AtifAslam.jpg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment (post_id:0 , user_id: 5,)",
+                "pic": "/Img/ElonMusk.webp",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 1,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:1 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:1 , user_id: 2,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharid comment (post_id:1 , user_id: 3,)",
+                "pic": "/Img/ShahbazSharif.jfif",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam comment (post_id:1 , user_id: 4,)",
+                "pic": "/Img/AtifAslam.jpg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment (post_id:1 , user_id: 5,)",
+                "pic": "/Img/ElonMusk.webp",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 2,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:2 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:2 , user_id: 2,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharid comment (post_id:2 , user_id: 3,)",
+                "pic": "/Img/ShahbazSharif.jfif",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam comment (post_id:2 , user_id: 4,)",
+                "pic": "/Img/AtifAslam.jpg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment (post_id:2 , user_id: 5,)",
+                "pic": "/Img/ElonMusk.webp",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 3,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:3 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Sufian Zulfiqar comment (post_id:3 , user_id: 1,)",
+                "pic": "/Img/SufianZulfiqar.png",
+                "user_name":"Sufian Zulfiqar"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:3 , user_id: 3,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam comment (post_id:3 , user_id: 4,)",
+                "pic": "/Img/AtifAslam.jpg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment (post_id:3 , user_id: 5,)",
+                "pic": "/Img/ElonMusk.webp",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+    {
+        "post_id": 4,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:4 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Sufian Zulfiqar comment (post_id:4 , user_id: 1,)",
+                "pic": "/Img/SufianZulfiqar.png",
+                "user_name":"Sufian Zulfiqar"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:4 , user_id: 3,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharif comment (post_id:4 , user_id: 4,)",
+                "pic": "/Img/ShahbazSharif.jfif",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment (post_id:4 , user_id: 5,)",
+                "pic": "/Img/ElonMusk.webp",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 5,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Imran Khan comment (post_id:5 , user_id: 0,)",
+                "pic": "/Img/ImranKhan.jfif",
+                "user_name":"Imran Khan"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Sufian Zulfiqar comment (post_id:5 , user_id: 1,)",
+                "pic": "/Img/SufianZulfiqar.png",
+                "user_name":"Sufian Zulfiqar"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid comment (post_id:5 , user_id: 3,)",
+                "pic": "/Img/NawazSharif.jpg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharif comment (post_id:5 , user_id: 4,)",
+                "pic": "/Img/ShahbazSharif.jfif",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam comment (post_id:5 , user_id: 5,)",
+                "pic": "/Img/AtifAslam.jpg",
+                "user_name":"Atif Aslam"
+            }
+            
+        ]
+    }
+
+  
+]
